@@ -1,0 +1,12 @@
+body {
+	font-family: "Ubuntu Mono", Monospace;
+	background-color: #252525;
+	color: #646464;
+}
+
+.logo {
+	font-weight: bold;
+	font-size: 250px;
+	padding-top: 30vh;
+	padding-left: 45vw;
+}
